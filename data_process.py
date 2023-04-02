@@ -8,7 +8,7 @@ pd.set_option('display.max_columns', None)
 from multi_pages import MultiPages
 import streamlit as st
 import numpy as np
-import graphviz
+# import graphviz
 from datetime import date,datetime
 
 st.set_page_config(
